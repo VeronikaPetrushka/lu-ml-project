@@ -6,22 +6,22 @@ Your task is to analyze a recently published dataset from the New York Times, fo
 
 Scope of Work:
 
-Data Analysis:
+Data Analysis: done
 Examine the dataset to identify which countries or regions are the happiest.
 Investigate the contributing factors to happiness.
 Determine if any features within the dataset are highly correlated with happiness or with each other.
 Explore potential causes for these correlations.
 
-Comparative Analysis (for example) :
+Comparative Analysis (for example) : done
 Conduct a detailed analysis of a particular continent i.e. Europe, identifying any outliers in each category.
 Compare the happiness levels of the United States with European nations.
 Provide recommendations for a hypothetical scenario where a US citizen is considering moving to Europe, specifically to countries like Poland, Norway, or Italy. Discuss the advantages and disadvantages of staying in the US versus moving to these European countries.
 
-Visualization and Interpretation:
+Visualization and Interpretation: done +-
 Create multiple attractive visuals to present your findings in a digestible format.
 Accompany each visual with a concise summary, highlighting any interesting observations and key takeaways.
 
-Explaining Happiness:
+Explaining Happiness: done
 Aim to explain the factors that contribute to the happiness of a country, making it comprehensible for readers.
 
 Statistical Analysis and Predictions:
